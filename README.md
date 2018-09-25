@@ -5,6 +5,9 @@ Simple App using ARKit:
   - Adding objects to the plane (tap gesture inside the plane)
   - Objects can be rotated and zoomed. (pinch gesture & rotate gesture)
   
+# Requirements:
+  - Operative System > iOS 11
+  - Device > iPhone 5 SE
  
 # Usage:
   - Run app

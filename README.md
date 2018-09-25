@@ -6,8 +6,9 @@ Simple App using ARKit:
   - Objects can be rotated and zoomed. (pinch gesture & rotate gesture)
   
 # Requirements:
-  - Operative System > iOS 11
-  - Device > iPhone 5 SE
+  - Operative System >= iOS 11
+  - Device >= iPhone 5 SE
+  - Xcode >= 9
  
 # Usage:
   - Run app
